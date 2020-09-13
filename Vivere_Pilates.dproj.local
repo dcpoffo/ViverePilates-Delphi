@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/07/10 10:15:18.000.662,=C:\Users\Darlan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/17 09:52:19.000.664,=C:\Users\Darlan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/26 10:44:06.000.682,=C:\Users\Darlan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/26 10:44:43.000.687,C:\Sistemas\Vivere Pilates\UPrincipal.dfm=C:\Users\Darlan\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/07/26 10:44:43.000.687,C:\Sistemas\Vivere Pilates\UPrincipal.pas=C:\Users\Darlan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/26 10:45:05.000.932,C:\Sistemas\Vivere Pilates\Vivere_Pilates.dproj=C:\Users\Darlan\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/07/26 11:08:43.000.840,=C:\Sistemas\Vivere Pilates\Unit2.pas</Transaction>
+    <Transaction>2018/07/26 11:14:27.000.061,C:\Sistemas\Vivere Pilates\Unit2.pas=C:\Sistemas\Vivere Pilates\UCadAlunos_Principal.pas</Transaction>
+    <Transaction>2018/07/26 11:14:27.000.061,C:\Sistemas\Vivere Pilates\Unit2.dfm=C:\Sistemas\Vivere Pilates\UCadAlunos_Principal.dfm</Transaction>
+    <Transaction>2018/07/30 10:34:03.000.616,=C:\Sistemas\Vivere Pilates\Unit2.pas</Transaction>
+    <Transaction>2018/07/30 10:34:52.000.002,C:\Sistemas\Vivere Pilates\UDM.pas=C:\Sistemas\Vivere Pilates\Unit2.pas</Transaction>
+    <Transaction>2018/07/30 10:34:52.000.002,C:\Sistemas\Vivere Pilates\UDM.dfm=C:\Sistemas\Vivere Pilates\Unit2.dfm</Transaction>
+    <Transaction>2018/08/06 10:53:31.000.922,=C:\Sistemas\Vivere Pilates\Unit2.pas</Transaction>
+    <Transaction>2018/12/13 10:12:36.000.725,=C:\Sistemas\Vivere Pilates\Unit1.pas</Transaction>
+    <Transaction>2018/12/13 10:37:58.000.640,C:\Sistemas\Vivere Pilates\Unit1.dfm=C:\Sistemas\Vivere Pilates\URelAtivosInativos.dfm</Transaction>
+    <Transaction>2018/12/13 10:37:58.000.640,C:\Sistemas\Vivere Pilates\Unit1.pas=C:\Sistemas\Vivere Pilates\URelAtivosInativos.pas</Transaction>
+    <Transaction>2018/12/14 15:10:36.000.551,=C:\Sistemas\Vivere Pilates\Unit1.pas</Transaction>
+    <Transaction>2018/12/14 15:11:33.000.017,C:\Sistemas\Vivere Pilates\UPesquisaAluno.pas=C:\Sistemas\Vivere Pilates\Unit1.pas</Transaction>
+    <Transaction>2018/12/14 15:11:33.000.017,C:\Sistemas\Vivere Pilates\UPesquisaAluno.dfm=C:\Sistemas\Vivere Pilates\Unit1.dfm</Transaction>
+    <Transaction>2018/12/16 20:49:21.000.867,=C:\Sistemas\Vivere Pilates\Unit1.pas</Transaction>
+    <Transaction>2018/12/16 20:50:03.000.519,C:\Sistemas\Vivere Pilates\UValorMensalidade.pas=C:\Sistemas\Vivere Pilates\Unit1.pas</Transaction>
+    <Transaction>2018/12/16 20:50:03.000.519,C:\Sistemas\Vivere Pilates\UValorMensalidade.dfm=C:\Sistemas\Vivere Pilates\Unit1.dfm</Transaction>
+    <Transaction>2018/12/17 10:00:13.000.362,=C:\Sistemas\Vivere Pilates\Unit1.pas</Transaction>
+    <Transaction>2018/12/17 10:00:22.000.737,C:\Sistemas\Vivere Pilates\Unit1.pas=C:\Sistemas\Vivere Pilates\UAjuda.pas</Transaction>
+    <Transaction>2018/12/17 11:14:23.000.634,=C:\Sistemas\Vivere Pilates\Unit1.pas</Transaction>
+    <Transaction>2018/12/17 11:18:04.000.345,C:\Sistemas\Vivere Pilates\Unit1.pas=C:\Sistemas\Vivere Pilates\URelMensalidade.pas</Transaction>
+    <Transaction>2018/12/17 11:18:04.000.345,C:\Sistemas\Vivere Pilates\Unit1.dfm=C:\Sistemas\Vivere Pilates\URelMensalidade.dfm</Transaction>
+    <Transaction>2018/12/23 20:01:16.000.354,=C:\Sistemas\Vivere Pilates\Unit1.pas</Transaction>
+    <Transaction>2018/12/23 20:11:38.000.935,C:\Sistemas\Vivere Pilates\URelFoto.pas=C:\Sistemas\Vivere Pilates\Unit1.pas</Transaction>
+    <Transaction>2018/12/23 20:11:38.000.935,C:\Sistemas\Vivere Pilates\URelFoto.dfm=C:\Sistemas\Vivere Pilates\Unit1.dfm</Transaction>
+    <Transaction>2018/12/28 18:55:01.000.707,=C:\Sistemas\Vivere Pilates\Unit1.pas</Transaction>
+    <Transaction>2019/01/11 10:11:26.000.875,=C:\Sistemas\Vivere Pilates\Unit1.pas</Transaction>
+    <Transaction>2019/01/11 10:12:04.000.960,C:\Sistemas\Vivere Pilates\Unit1.dfm=C:\Sistemas\Vivere Pilates\Uteste.dfm</Transaction>
+    <Transaction>2019/01/11 10:12:04.000.960,C:\Sistemas\Vivere Pilates\Unit1.pas=C:\Sistemas\Vivere Pilates\Uteste.pas</Transaction>
+    <Transaction>2019/01/26 21:27:53.000.109,=C:\Sistemas\Vivere Pilates\Unit2.pas</Transaction>
+    <Transaction>2019/01/26 21:33:46.000.750,C:\Sistemas\Vivere Pilates\Unit2.dfm=C:\Sistemas\Vivere Pilates\URelMensalidade_Coluna.dfm</Transaction>
+    <Transaction>2019/01/26 21:33:46.000.750,C:\Sistemas\Vivere Pilates\Unit2.pas=C:\Sistemas\Vivere Pilates\URelMensalidade_Coluna.pas</Transaction>
+    <Transaction>2019/02/05 08:58:38.000.238,=C:\Sistemas\Vivere Pilates\Unit2.pas</Transaction>
+    <Transaction>2019/02/05 08:59:09.000.742,C:\Sistemas\Vivere Pilates\Unit2.dfm=C:\Sistemas\Vivere Pilates\UControleMensalidade.dfm</Transaction>
+    <Transaction>2019/02/05 08:59:09.000.742,C:\Sistemas\Vivere Pilates\Unit2.pas=C:\Sistemas\Vivere Pilates\UControleMensalidade.pas</Transaction>
+    <Transaction>2019/02/05 11:01:15.000.944,=C:\Sistemas\Vivere Pilates\Unit2.pas</Transaction>
+    <Transaction>2019/02/05 11:07:05.000.129,C:\Sistemas\Vivere Pilates\Unit2.dfm=C:\Sistemas\Vivere Pilates\UDados.dfm</Transaction>
+    <Transaction>2019/02/05 11:07:05.000.129,C:\Sistemas\Vivere Pilates\Unit2.pas=C:\Sistemas\Vivere Pilates\UDados.pas</Transaction>
+    <Transaction>2020/01/03 20:19:23.000.558,=D:\SISTEMAS\Vivere Pilates\Unit2.pas</Transaction>
+    <Transaction>2020/01/03 20:22:14.000.600,D:\SISTEMAS\Vivere Pilates\Unit2.pas=D:\SISTEMAS\Vivere Pilates\UBackup.pas</Transaction>
+    <Transaction>2020/01/03 20:22:14.000.600,D:\SISTEMAS\Vivere Pilates\Unit2.dfm=D:\SISTEMAS\Vivere Pilates\UBackup.dfm</Transaction>
+    <Transaction>2020/01/18 19:06:16.000.108,=D:\SISTEMAS\Vivere Pilates\Unit2.pas</Transaction>
+    <Transaction>2020/01/18 19:08:31.000.971,D:\SISTEMAS\Vivere Pilates\URelAulas.pas=D:\SISTEMAS\Vivere Pilates\Unit2.pas</Transaction>
+    <Transaction>2020/01/18 19:08:31.000.971,D:\SISTEMAS\Vivere Pilates\URelAulas.dfm=D:\SISTEMAS\Vivere Pilates\Unit2.dfm</Transaction>
+    <Transaction>2020/09/09 21:08:58.000.241,C:\Sistemas\Vivere Pilates\Uteste.pas=</Transaction>
+    <Transaction>2020/09/09 21:09:17.000.424,C:\Sistemas\Vivere Pilates\UBackup.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

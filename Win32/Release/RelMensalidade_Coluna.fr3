@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<TfrxReport Version="5.1.5" DotMatrixReport="False" IniFile="\Software\Fast Reports" PreviewOptions.Buttons="4095" PreviewOptions.Zoom="1" PrintOptions.Printer="Default" PrintOptions.PrintOnSheet="0" ReportOptions.CreateDate="43490,4382719792" ReportOptions.Description.Text="" ReportOptions.LastChange="43490,4547496181" ScriptLanguage="PascalScript" ScriptText.Text="begin&#13;&#10;&#13;&#10;end.">
+  <Datasets>
+    <item DataSet="frxBdMensalidade_coluna" DataSetName="Mensalidade_coluna"/>
+  </Datasets>
+  <TfrxDataPage Name="Data" Height="1000" Left="0" Top="0" Width="1000"/>
+  <TfrxReportPage Name="Page1" Font.Charset="1" Font.Color="0" Font.Height="-9" Font.Name="Arial" Font.Style="0" Orientation="poLandscape" PaperWidth="297" PaperHeight="210" PaperSize="9" LeftMargin="10,00125" RightMargin="10,00125" TopMargin="10,00125" BottomMargin="10,00125" ColumnWidth="0" ColumnPositions.Text="" HGuides.Text="" VGuides.Text="">
+    <TfrxHeader Name="Header1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Height="20" Left="0" Top="16" Width="1046,920361175">
+      <TfrxMemoView Name="Mensalidade_colunaJANEIRO1" Left="0" Top="4" Width="124" Height="16" DataSet="frxBdMensalidade_coluna" DataSetName="Mensalidade_coluna" Text="Janeiro"/>
+      <TfrxMemoView Name="Mensalidade_colunaFEVEREIRO1" Left="124" Top="4" Width="116" Height="16" DataSet="frxBdMensalidade_coluna" DataSetName="Mensalidade_coluna" Text="Fevereiro"/>
+      <TfrxMemoView Name="Mensalidade_colunaMARCO1" Left="240" Top="4" Width="120" Height="16" DataSet="frxBdMensalidade_coluna" DataSetName="Mensalidade_coluna" Text="Março"/>
+    </TfrxHeader>
+    <TfrxMasterData Name="MasterData1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Height="32" Left="0" Top="56" Width="1046,920361175" ColumnWidth="0" ColumnGap="0" DataSet="frxBdMensalidade_coluna" DataSetName="Mensalidade_coluna" RowCount="0">
+      <TfrxMemoView Name="Mensalidade_colunaJANEIRO" Left="0" Top="0" Width="120" Height="24" DataField="JANEIRO" DataSet="frxBdMensalidade_coluna" DataSetName="Mensalidade_coluna" Text="[Mensalidade_coluna.&#34;JANEIRO&#34;]"/>
+      <TfrxMemoView Name="Mensalidade_colunaFEVEREIRO" Left="120" Top="0" Width="120" Height="24" DataField="FEVEREIRO" DataSet="frxBdMensalidade_coluna" DataSetName="Mensalidade_coluna" Text="[Mensalidade_coluna.&#34;FEVEREIRO&#34;]"/>
+      <TfrxMemoView Name="Mensalidade_colunaMARCO" Left="240" Top="0" Width="120" Height="24" DataField="MARCO" DataSet="frxBdMensalidade_coluna" DataSetName="Mensalidade_coluna" Text="[Mensalidade_coluna.&#34;MARCO&#34;]"/>
+    </TfrxMasterData>
+    <TfrxFooter Name="Footer1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Height="20" Left="0" Top="108" Width="1046,920361175"/>
+  </TfrxReportPage>
+</TfrxReport>

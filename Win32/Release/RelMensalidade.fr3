@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<TfrxReport Version="5.1.5" DotMatrixReport="False" IniFile="\Software\Fast Reports" PreviewOptions.Buttons="4095" PreviewOptions.Zoom="1" PrintOptions.Printer="Default" PrintOptions.PrintOnSheet="0" ReportOptions.CreateDate="43453,8082389815" ReportOptions.Description.Text="" ReportOptions.LastChange="43840,9005750232" ScriptLanguage="PascalScript" ScriptText.Text="begin&#13;&#10;&#13;&#10;end.">
+  <Datasets>
+    <item DataSet="frxBdMensalidade" DataSetName="Mensalidade"/>
+  </Datasets>
+  <Variables>
+    <item Name=" New Category1"/>
+    <item Name="Pago" Value="&#60;pago&#62;"/>
+    <item Name="NaoPago" Value="&#60;naopago&#62;"/>
+  </Variables>
+  <TfrxDataPage Name="Data" Height="1000" Left="0" Top="0" Width="1000"/>
+  <TfrxReportPage Name="Page1" PaperWidth="210" PaperHeight="297" PaperSize="9" LeftMargin="10" RightMargin="10" TopMargin="10" BottomMargin="10" ColumnWidth="0" ColumnPositions.Text="" HGuides.Text="" VGuides.Text="">
+    <TfrxReportTitle Name="ReportTitle1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Height="22,67718" Left="0" Top="18,89765" Width="718,1107">
+      <TfrxMemoView Name="Memo1" Align="baCenter" Left="228,661565" Top="0" Width="260,78757" Height="18,89765" Font.Charset="1" Font.Color="0" Font.Height="-16" Font.Name="Arial" Font.Style="1" ParentFont="False" Text="RELATORIO DE MENSALIDADES"/>
+      <TfrxMemoView Name="Page" Left="500" Top="0" Width="216" Height="20" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" HAlign="haRight" ParentFont="False" Text="Página [Page] de [TotalPages#]">
+        <Formats>
+          <item/>
+          <item/>
+        </Formats>
+      </TfrxMemoView>
+    </TfrxReportTitle>
+    <TfrxMasterData Name="mdMensalidade" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" Height="18,89765" Left="0" ParentFont="False" Top="147,40167" Width="718,1107" ColumnWidth="0" ColumnGap="0" DataSet="frxBdMensalidade" DataSetName="Mensalidade" RowCount="0">
+      <TfrxMemoView Name="MensalidadeNOME" Left="183,37013" Top="0,779529999999994" Width="230,55133" Height="18,89765" DataField="NOME" DataSet="frxBdMensalidade" DataSetName="Mensalidade" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Typ="15" ParentFont="False" Text="[Mensalidade.&#34;NOME&#34;]"/>
+      <TfrxMemoView Name="MensalidadeMES" Left="414,17347" Top="0,779529999999994" Width="113,3859" Height="18,89765" DataField="MES" DataSet="frxBdMensalidade" DataSetName="Mensalidade" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Typ="15" ParentFont="False" Text="[Mensalidade.&#34;MES&#34;]"/>
+      <TfrxMemoView Name="MensalidadeVALOR" Left="527,55937" Top="0,779529999999994" Width="75,5906" Height="18,89765" DataField="VALOR" DataSet="frxBdMensalidade" DataSetName="Mensalidade" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Typ="15" ParentFont="False" Text="[Mensalidade.&#34;VALOR&#34;]"/>
+      <TfrxMemoView Name="MensalidadeANO" Left="43" Top="0,780000000000001" Width="40" Height="18,9" DataField="ANO" DataSet="frxBdMensalidade" DataSetName="Mensalidade" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Typ="15" ParentFont="False" Text="[Mensalidade.&#34;ANO&#34;]"/>
+      <TfrxMemoView Name="Memo4" Left="83" Top="0,780000000000001" Width="100" Height="18,9" DataField="CPF" DataSet="frxBdMensalidade" DataSetName="Mensalidade" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Typ="15" ParentFont="False" Text="[Mensalidade.&#34;CPF&#34;]"/>
+    </TfrxMasterData>
+    <TfrxHeader Name="Header1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="1" Height="22,67718" Left="0" ParentFont="False" Top="102,04731" Width="718,1107" Stretched="True">
+      <TfrxMemoView Name="Memo3" Left="183,37013" Top="3,77952999999999" Width="230,55133" Height="18,89765" DataSet="frxBdMensalidade" DataSetName="Mensalidade" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="1" Frame.Typ="15" ParentFont="False" Text="Nome"/>
+      <TfrxMemoView Name="Memo5" Left="414,17347" Top="3,77952999999999" Width="113,3859" Height="18,89765" DataSet="frxBdMensalidade" DataSetName="Mensalidade" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="1" Frame.Typ="15" ParentFont="False" Text="Mês"/>
+      <TfrxMemoView Name="Memo6" Left="527,55937" Top="3,77952999999999" Width="75,5906" Height="18,89765" DataSet="frxBdMensalidade" DataSetName="Mensalidade" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="1" Frame.Typ="15" ParentFont="False" Text="Valor"/>
+      <TfrxMemoView Name="Memo2" Left="43" Top="4" Width="40" Height="18,89765" DataSet="frxBdMensalidade" DataSetName="Mensalidade" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="1" Frame.Typ="15" ParentFont="False" Text="Ano"/>
+      <TfrxMemoView Name="Memo7" Left="83" Top="4" Width="100" Height="18,89765" DataSet="frxBdMensalidade" DataSetName="Mensalidade" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="1" Frame.Typ="15" ParentFont="False" Text="C.P.F."/>
+    </TfrxHeader>
+    <TfrxColumnFooter Name="ColumnFooter1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Height="31,77953" Left="0" Top="298,58287" Width="718,1107">
+      <TfrxMemoView Name="Date" Align="baRight" Left="564,7248" Top="7,55905999999999" Width="153,3859" Height="18,89765" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" HAlign="haRight" ParentFont="False" Text="Gerado em: [Date]"/>
+    </TfrxColumnFooter>
+    <TfrxFooter Name="Footer1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Height="49,13389" Left="0" Top="188,9765" Width="718,1107">
+      <TfrxMemoView Name="Memo8" Left="284" Top="4,22047" Width="244" Height="20" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="1" HAlign="haRight" ParentFont="False" Text="Total Valores Pago: [Pago]"/>
+      <TfrxMemoView Name="Memo9" Left="284" Top="28,22047" Width="244" Height="20" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="1" HAlign="haRight" ParentFont="False" Text="Total Valores Não Pago: [NaoPago]"/>
+      <TfrxMemoView Name="Line1" Left="3,77953" Top="3,77953" Width="158,74026" Height="18,89765" Text="Total de registros: [Line#]"/>
+    </TfrxFooter>
+  </TfrxReportPage>
+</TfrxReport>
